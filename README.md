@@ -1,4 +1,3 @@
-ywagener.github.io
-==================
+# My Personal GitHub Home Page
 
-My personal account GitHub Pages web site
+This is a demonstration for the June 24 Foundations Class
